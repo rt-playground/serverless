@@ -1,0 +1,14 @@
+{
+  "name": "email-service",
+  "version": "1.0.0",
+  "description": "getting started guide to serverless framework",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Royce Remulla",
+  "license": "MIT",
+  "dependencies": {
+    "mailgun-js": "^0.22.0"
+  }
+}
